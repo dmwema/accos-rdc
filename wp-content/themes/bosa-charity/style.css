@@ -1,0 +1,168 @@
+/*!
+Theme Name: Bosa Charity
+Theme URI: https://bosathemes.com/bosa-charity
+Author: Keon Themes
+Author URI: https://keonthemes.com
+Description: Bosa Charity is multipurpose charity theme. Bosa Charity is beautiful, fast, lightweight, responsive, extremely customizable theme that you can use as a foundation to build versatile sites such as charity, NGO, non profit, volunteer, fundraising, church, conservation, trust, foundation, donation, welfare activities, campaigns, activism, change in society, community support, social, foundations or a non-profit organisation, charitable institution, helping hands, old age, kids, foster home, caretaker, philanthropy, amnesty, disaster relief, donation camp, hunger index, pandemic relief, eco nature, blog, news, portfolio and preferably ideal for any type of charity sites. Bosa Charity is a child theme of Bosa, a free multipurpose WordPress theme. Bosa Charity works perfectly with Gutenberg and the most popular page builder Elementor that can easily drag-and-drop your ideas from the interface. Bosa Charity is built with SEO, speed, and usability in mind with the multiple Header & Footer layouts, predesigned starter sites includes awesome Home & Inner Pages that is incredibly customizable and powerful enough to take a stand among the crowd. Bosa Charity is compatible with all major plugins like WooCommerce, Yoast, Contact form 7, Mailchimp for WordPress, bbPress, etc. Looking for a Multipurpose Charity theme? Look no further! Browse the demos to see that it's the only theme you will ever need: https://demo.bosathemes.com/bosa/bosa-charity
+Version: 1.0.2
+Requires PHP: 5.5
+Tested up to: 5.9
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: bosa
+Text Domain: bosa-charity
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Bosa Charity WordPress Theme, Copyright 2022 Keon Themes
+Bosa Charity is distributed under the terms of the GNU General Public License v3
+
+Bosa Charity is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+*/
+.screen-reader-text {
+  border: 0;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute !important;
+  width: 1px;
+  word-wrap: normal !important;
+}
+
+body {
+  color: #444444;
+  font-family: 'Poppins', sans-serif;
+}
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6 {
+  color: #3a3a3a;
+  font-family: 'Open Sans', serif;
+  font-weight: 600;
+}
+.wp-block-quote {
+  padding: 30px 30px 30px 50px;
+  margin: 30px 0 30px 30px;
+}
+.site-header .site-branding .site-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.2;
+    text-transform: none;
+}
+.main-navigation ul.menu > li > a {
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+.section-banner .banner-content .entry-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 56px;
+    font-weight: 900;
+    line-height: 1.2;
+    text-transform: capitalize;
+}
+.section-banner .banner-content .entry-text p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.8;
+    text-transform: initial;
+}
+.feature-posts-content-wrap .feature-posts-content .feature-posts-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-transform: capitalize;
+}
+.post .feature-posts-content .cat-links a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 1;
+    text-transform: uppercase;
+}
+#primary article .entry-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-transform: capitalize;
+}
+.highlight-post-slider .post .entry-content .entry-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-transform: capitalize;
+}
+.highlight-post-slider .post .cat-links a {
+    font-family: 'Poppins', sans-serif;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+}
+.sidebar .widget .widget-title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.4;
+    text-transform: uppercase;
+}
+.page-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+.site-footer .site-info,
+.post .entry-meta, 
+.attachment .entry-meta, 
+.banner-content .entry-meta,
+.site-footer .site-info,
+.site-footer .footer-menu ul li a,
+.post .feature-posts-content .entry-meta a,
+.highlight-post-slider .post .entry-meta a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+#bosa-ngo-callback-form .wpcf7 input[type=text],
+#bosa-ngo-callback-form .wpcf7 input[type=email],
+#bosa-ngo-callback-form .wpcf7 textarea {
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  height: 50px;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  background-color: rgba(255,255,255,0.85);
+  border: none;
+}
+#bosa-ngo-callback-form .wpcf7 input[type=submit] {
+  background-color: #FFA026;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+  text-transform: capitalize;
+  font-size: 16px;
+  padding: 17px 32px 16px;
+  margin-top: 5px;
+}
+#bosa-ngo-callback-form .wpcf7 input[type=submit]:hover,
+#bosa-ngo-callback-form .wpcf7 input[type=submit]:active,
+#bosa-ngo-callback-form .wpcf7 input[type=submit]:focus {
+  background-color: #D97A00;
+}

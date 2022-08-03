@@ -1,0 +1,64 @@
+.kt-theme-info-action-recommended-box a.bosa-install-plugins.button {
+    background: #04bf41;
+    color: #fff;
+    padding: 6px 15px;
+    border-color: #04bf41;
+    font-size: 15px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.kt-theme-info-action-recommended-box a.bosa-install-plugins.button:hover,
+.kt-theme-info-action-recommended-box a.bosa-install-plugins.button:focus,
+.kt-theme-info-action-recommended-box a.bosa-install-plugins.button:active {
+    background: #00944a;
+    border-color: #00944a;
+    color: #fff;
+}
+
+.getting-started-notice-dismiss {
+    color: #ddd;
+    position: absolute;
+    top: 0;
+    right: 30px;
+    border: none;
+    margin: 0;
+    padding: 9px;
+    background: 0 0;
+    cursor: pointer;
+    text-decoration: none;
+    vertical-align: top;
+}
+
+.getting-started-notice-dismiss:hover,
+.getting-started-notice-dismiss:focus,
+.getting-started-notice-dismiss:active {
+    color: #bababa;
+}
+
+.getting-started-notice-dismiss:before {
+    display: inline-block;
+    line-height: 1;
+}
+
+.wp-core-ui p .button {
+    display: inline-table;
+    vertical-align: middle;
+}
+
+.button-primary.button-hero:before {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+
+@media screen and (max-width: 991px){
+    .getting-started-notice-dismiss {
+        position: static;
+        display: block;
+        padding-bottom: 10px !important;
+    }
+}

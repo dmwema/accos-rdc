@@ -1,0 +1,80 @@
+.at-gsm {
+    display: none;
+}
+.ads-container {
+    padding: 20px 10px;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.ads-container .ads-screenshot {
+    width: 20%;
+    max-width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+}
+
+.ads-container .ads-notice {
+    width: 70%;
+    display: block;
+    vertical-align: top;
+    padding: 0 20px;
+}
+.ads-container .ads-notice .plugin-install-notice {
+    border-top: 1px solid #ddd;
+    padding-top: 15px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.ads-container a.ads-gsm-btn:before{
+    margin: -2px 5px 0 -2px;
+    vertical-align: middle;
+}
+
+.ads-notice h2 {
+    margin: 0 0 10px;
+    font-weight: 400;
+    line-height: 1.3;
+}
+
+.ads-container .ads-notice p {
+    margin: 1em 0;
+    padding: 0;
+    color: #72777c;
+}
+
+a.ads-gsm-btn.button {
+    background: #04bf41;
+    color: #fff;
+    border-color: #04bf41;
+    font-size: 15px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+a.ads-gsm-btn.button:hover,
+a.ads-gsm-btn.button:focus,
+a.ads-gsm-btn.button:active {
+    background: #00944a;
+    border-color: #00944a;
+    color: #fff;
+}
+
+@media (max-width: 600px) {
+    .ads-container .ads-screenshot {
+        display: none;
+    }
+    .ads-container .ads-notice {
+        padding: 0;
+        width: 100%;
+    }
+}

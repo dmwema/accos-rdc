@@ -1,0 +1,1517 @@
+# Translation of Plugins - Elementor Header &amp; Footer Builder - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Elementor Header &amp; Footer Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-23 17:57:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Elementor Header &amp; Footer Builder - Stable (latest release)\n"
+
+#: inc/widgets-manager/widgets/class-search-button.php:662
+#: inc/widgets-manager/widgets/class-search-button.php:715
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:254
+msgid "Hide + & - Sign"
+msgstr "Masquer les signes + & -"
+
+#: inc/class-hfe-settings-page.php:736
+msgid "Ultimate Addons for Elementor"
+msgstr "Ultimate Addons for Elementor"
+
+#: inc/class-hfe-settings-page.php:724
+msgid "Starter Templates"
+msgstr "Modèles de démarrage"
+
+#: inc/class-hfe-settings-page.php:712
+msgid "Astra Theme"
+msgstr "Thème Astra"
+
+#: inc/class-hfe-settings-page.php:679
+msgid "Not Installed"
+msgstr "Non Installée"
+
+#: inc/class-hfe-settings-page.php:614
+msgid "WordPress.org"
+msgstr "WordPress.org"
+
+#. translators: %s - addon status label.
+#: inc/class-hfe-settings-page.php:595
+msgid "Status: %s"
+msgstr "État : %s"
+
+#. translators: %s - addon status label.
+#: inc/class-hfe-settings-page.php:578
+msgid "%1$s %3$s %2$s"
+msgstr "%1$s %3$s %2$s"
+
+#: inc/class-hfe-settings-page.php:534
+msgid "Brainstorm Force Team"
+msgstr "Brainstorm Force Team"
+
+#: inc/class-hfe-settings-page.php:532
+msgid "Team photo"
+msgstr "Photo d’équipe"
+
+#: inc/class-hfe-settings-page.php:464
+msgid "Submit"
+msgstr "Envoyer"
+
+#: inc/class-hfe-settings-page.php:455
+msgid "Your Work Email"
+msgstr "Votre e-mail professionnel"
+
+#: inc/class-hfe-settings-page.php:454
+msgid "Email address is required"
+msgstr "Une adresse e-mail est nécessaire"
+
+#: inc/class-hfe-settings-page.php:450
+msgid "Your First Name"
+msgstr "Votre prénom"
+
+#: inc/class-hfe-settings-page.php:449
+msgid "First name is required"
+msgstr "Le prénom est obligatoire"
+
+#: inc/class-hfe-settings-page.php:426
+msgid "I'm building website for:"
+msgstr "Je construis un site pour :"
+
+#: inc/class-hfe-settings-page.php:423
+msgid "My client"
+msgstr "Mon client"
+
+#: inc/class-hfe-settings-page.php:422
+msgid "Myself/My company"
+msgstr "Moi-même/mon entreprise"
+
+#: inc/class-hfe-settings-page.php:417
+msgid "I'm a WordPress:"
+msgstr "Je suis un utilisateur ou une utilisatrice WordPress :"
+
+#: inc/class-hfe-settings-page.php:416 inc/class-hfe-settings-page.php:425
+msgid "Field is required"
+msgstr "Le champ est obligatoire"
+
+#: inc/class-hfe-settings-page.php:414
+msgid "Expert"
+msgstr "Expert/experte"
+
+#: inc/class-hfe-settings-page.php:413
+msgid "Intermediate"
+msgstr "Intermédiaire"
+
+#: inc/class-hfe-settings-page.php:412
+msgid "Beginner"
+msgstr "Débutant/débutante"
+
+#: inc/class-hfe-settings-page.php:394
+msgid "Skip"
+msgstr "Passer"
+
+#: inc/class-hfe-settings-page.php:194 inc/class-hfe-settings-page.php:195
+#: inc/class-hfe-settings-page.php:272
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: inc/class-hfe-settings-page.php:211
+msgid "Elementor Header & Footer Builder "
+msgstr "Elementor Header & Footer Builder "
+
+#: inc/class-hfe-settings-page.php:71 inc/class-hfe-settings-page.php:687
+msgid "Visit Website"
+msgstr "Visiter le site"
+
+#: inc/class-hfe-settings-page.php:70
+msgid "Already Exists."
+msgstr "Existe déjà."
+
+#: inc/class-hfe-settings-page.php:69
+msgid "Download"
+msgstr "Télécharger"
+
+#: inc/class-hfe-settings-page.php:68
+msgid "Plugin Installed"
+msgstr "Extension installée"
+
+#: inc/class-hfe-settings-page.php:67
+msgid "Theme Installed"
+msgstr "Thème installé"
+
+#: inc/class-hfe-settings-page.php:66 inc/class-hfe-settings-page.php:682
+msgid "Install"
+msgstr "Installer"
+
+#: inc/class-header-footer-elementor.php:289
+msgid "Update Elementor"
+msgstr "Mettre à jour Elementor"
+
+#. translators: %s: html tags
+#: inc/class-header-footer-elementor.php:282
+msgid "The %1$sElementor Header & Footer Builder%2$s plugin has stopped working because you are using an older version of %1$sElementor%2$s plugin."
+msgstr "L’extension %1$sElementor - Header Footer and Blocks%2$s a cessé de fonctionner car vous utilisez une version trop ancienne de l’extension %1$sElementor%2$s."
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:468
+msgid "Open Submenu"
+msgstr "Ouvrir le sous-menu"
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:408
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "Autoriser les produits %s à suivre les données de suivi d’utilisation non sensibles."
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:469
+msgid "Redirect To Self Link"
+msgstr "Rediriger vers son propre lien"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:466
+msgid "For Horizontal layout, this will affect on the selected breakpoint"
+msgstr "Pour la mise en page horizontale, cela aura des répercussions sur le point de rupture sélectionné"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:463
+msgid "Action On Menu Click"
+msgstr "Action au clic sur le menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:237
+msgid "Enable Schema Support"
+msgstr "Permettre la prise en charge de schémas"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:416
+msgid "Learn More."
+msgstr "En savoir plus."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:364
+msgid "Usage Tracking"
+msgstr "Suivi d’utilisation"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:260
+msgid "No Thanks"
+msgstr "Non merci"
+
+#: inc/widgets-manager/widgets/class-search-button.php:54
+#: inc/widgets-manager/widgets/class-search-button.php:968
+msgid "Search"
+msgstr "Recherche"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:243
+msgid " Know More."
+msgstr " En savoir plus."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:411
+msgid " This will be applicable for all sites from the network."
+msgstr " Ceci sera applicable pour tous les sites de ce réseau."
+
+#: inc/widgets-manager/widgets/class-search-button.php:259
+#: inc/widgets-manager/widgets/class-search-button.php:424
+msgid "Placeholder Color"
+msgstr "Couleur du texte indicatif"
+
+#: inc/widgets-manager/widgets/class-search-button.php:187
+msgid "Input"
+msgstr "Entrée"
+
+#: inc/widgets-manager/widgets/class-search-button.php:147
+msgid "Type & Hit Enter"
+msgstr "Saisissez et appuyez sur « Entrée »"
+
+#: inc/widgets-manager/widgets/class-search-button.php:145
+msgid "Placeholder"
+msgstr "Texte indicatif"
+
+#: inc/widgets-manager/widgets/class-search-button.php:135
+msgid "Input Box With Button"
+msgstr "Boîte de saisie avec bouton"
+
+#: inc/widgets-manager/widgets/class-search-button.php:133
+msgid "Input Box"
+msgstr "Boîte de saisie"
+
+#: inc/widgets-manager/widgets/class-search-button.php:122
+msgid "Search Box"
+msgstr "Boîte de recherche"
+
+#: inc/widgets-manager/widgets/class-search-button.php:399
+msgid "Focus"
+msgstr "Focus"
+
+#. translators: %1$s doc link
+#: inc/widgets-manager/widgets/class-page-title.php:120
+msgid "<b>Note:</b> Archive page title will be visible on frontend."
+msgstr "<b>Note :</b> le titre de la page d’archive sera visible sur l’interface publique."
+
+#: inc/class-header-footer-elementor.php:260
+#: inc/class-header-footer-elementor.php:294
+msgid "Install Elementor"
+msgstr "Installer Elementor"
+
+#: inc/class-header-footer-elementor.php:255
+msgid "Activate Elementor"
+msgstr "Activer Elementor"
+
+#: admin/class-hfe-admin.php:229 inc/class-hfe-settings-page.php:266
+msgid "All Templates"
+msgstr "Tous les modèles"
+
+#: admin/class-hfe-admin.php:384
+msgid "Add locations for where this template should not appear."
+msgstr "Ajoutez des emplacements pour lesquels ce modèle ne doit pas apparaître."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:251
+msgid "Yes! Allow it"
+msgstr "Oui ! L’autoriser"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:219
+msgid "This will be applicable for all sites from the network."
+msgstr "Ce sera applicable pour tous les sites de ce réseau."
+
+#. translators: %s product name
+#: admin/bsf-analytics/class-bsf-analytics.php:216
+msgid "Want to help make <strong>%1s</strong> even more awesome? Allow us to collect non-sensitive diagnostic data and usage information. "
+msgstr "Vous souhaitez aider à rendre <strong>%1s</strong> encore plus impressionnant ? Autorisez-nous à collecter des données de diagnostic et des informations d’utilisation non sensibles. "
+
+#. translators: %s: html tags
+#: inc/class-header-footer-elementor.php:248
+msgid "The %1$sElementor Header & Footer Builder%2$s plugin requires %1$sElementor%2$s plugin installed & activated."
+msgstr "L’extension %1$sElementor - Header & Footer Builder%2$s nécessite que l’extension %1$sElementor%2$s soit installée et activée."
+
+#. Description of the plugin
+msgid "This powerful plugin allows creating a custom header, footer with Elementor and display them on selected locations. You can also create custom Elementor blocks and place them anywhere on the website with a shortcode."
+msgstr "Cette puissante extension permet de créer un en-tête et un pied de page personnalisés avec Elementor et de les afficher à certains endroits. Vous pouvez également créer des blocs Elementor personnalisés et les placer n’importe où sur le site web avec un code court."
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1807
+msgid "Border Hover Color"
+msgstr "Couleur de la bordure au survol"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1742
+msgid "Border"
+msgstr "Bordure"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1680
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:225
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1668
+#: inc/widgets-manager/widgets/class-search-button.php:629
+msgid "Button"
+msgstr "Bouton"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:221
+msgid "Last Menu Item"
+msgstr "Dernier élément du menu"
+
+#: inc/widgets-manager/widgets/class-cart.php:501
+msgid "Distance"
+msgstr "Distance"
+
+#: inc/widgets-manager/widgets/class-cart.php:185
+msgid "This will hide the items count until the cart is empty"
+msgstr "Cela masquera le nombre d’éléments jusqu'à ce que le panier soit vide"
+
+#: inc/widgets-manager/widgets/class-cart.php:179
+msgid "Hide Empty"
+msgstr "Masquer les vides"
+
+#: inc/widgets-manager/widgets/class-cart.php:163
+msgid "Show Total Price"
+msgstr "Afficher le prix total"
+
+#: inc/widgets-manager/widgets/class-cart.php:115
+msgid "Type"
+msgstr "Type"
+
+#: inc/widgets-manager/class-widgets-loader.php:234
+#: inc/widgets-manager/widgets/class-cart.php:51
+#: inc/widgets-manager/widgets/class-cart.php:652
+msgid "Cart"
+msgstr "Panier"
+
+#: inc/widgets-manager/widgets/class-cart.php:120
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: inc/widgets-manager/widgets/class-cart.php:150
+msgid "Bubble"
+msgstr "Bulle"
+
+#: inc/widgets-manager/widgets/class-cart.php:146
+#: inc/widgets-manager/widgets/class-cart.php:488
+msgid "Items Count"
+msgstr "Nombre d’éléments"
+
+#: inc/widgets-manager/widgets/class-cart.php:133
+msgid "Bag Solid"
+msgstr "Sac plein"
+
+#: inc/widgets-manager/widgets/class-cart.php:132
+msgid "Bag Medium"
+msgstr "Sac moyen"
+
+#: inc/widgets-manager/widgets/class-cart.php:131
+msgid "Bag Light"
+msgstr "Sac léger"
+
+#: inc/widgets-manager/widgets/class-cart.php:108
+#: inc/widgets-manager/widgets/class-cart.php:232
+msgid "Menu Cart"
+msgstr "Panier de menu"
+
+#: inc/class-hfe-settings-page.php:132
+msgid "The Elementor Header & Footer Builder plugin need compatibility with your current theme to work smoothly.</br></br>Following are two methods that enable theme support for the plugin.</br></br>Method 1 is selected by default and that works fine almost will all themes. In case, you face any issue with the header or footer template, try choosing Method 2."
+msgstr "L’extension Elementor - Header & Footer Builder doit être compatible avec votre thème actuel pour fonctionner correctement.</br></br>Il existe deux méthodes qui permettent la prise en charge du thème par l’extension.</br></br>La méthode 1 est sélectionnée par défaut et fonctionne correctement pour presque tous les thèmes. Si vous rencontrez un problème avec le modèle d’en-tête ou de pied de page, essayez de choisir la méthode 2."
+
+#: inc/widgets-manager/widgets/class-site-title.php:112
+msgid "General"
+msgstr "Général"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:631
+msgid "Spacing"
+msgstr "Espacement"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:249
+msgid "Lightbox"
+msgstr "Visionneuse"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:283
+msgid "Site logo"
+msgstr "Logo du site"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:61
+#: inc/widgets-manager/widgets/class-site-logo.php:117
+msgid "Site Logo"
+msgstr "Logo du site"
+
+#: inc/widgets-manager/widgets/class-site-tagline.php:108
+msgid "Style"
+msgstr "Style"
+
+#: inc/widgets-manager/widgets/class-site-tagline.php:53
+msgid "Site Tagline"
+msgstr "Slogan du site"
+
+#: inc/widgets-manager/widgets/class-cart.php:442
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1579
+#: inc/widgets-manager/widgets/class-search-button.php:732
+#: inc/widgets-manager/widgets/class-search-button.php:839
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1114
+msgid "Dropdown"
+msgstr "Menu déroulant"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:840
+msgid "Text"
+msgstr "Texte"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:839
+msgid "Framed"
+msgstr "Encadré"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:136
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:124
+msgid "Custom Image"
+msgstr "Image personnalisée"
+
+#: inc/widgets-manager/widgets/class-cart.php:166
+#: inc/widgets-manager/widgets/class-cart.php:182
+#: inc/widgets-manager/widgets/class-navigation-menu.php:240
+#: inc/widgets-manager/widgets/class-navigation-menu.php:257
+#: inc/widgets-manager/widgets/class-navigation-menu.php:549
+#: inc/widgets-manager/widgets/class-site-logo.php:127
+#: inc/widgets-manager/widgets/class-site-logo.php:191
+#: inc/widgets-manager/widgets/class-site-logo.php:255
+msgid "No"
+msgstr "Non"
+
+#: inc/widgets-manager/widgets/class-cart.php:165
+#: inc/widgets-manager/widgets/class-cart.php:181
+#: inc/widgets-manager/widgets/class-navigation-menu.php:239
+#: inc/widgets-manager/widgets/class-navigation-menu.php:256
+#: inc/widgets-manager/widgets/class-navigation-menu.php:548
+#: inc/widgets-manager/widgets/class-site-logo.php:126
+#: inc/widgets-manager/widgets/class-site-logo.php:192
+#: inc/widgets-manager/widgets/class-site-logo.php:254
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:494
+msgid "Mobile (768px >)"
+msgstr "Mobile (767px >)"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:490
+msgid "Breakpoint"
+msgstr "Point de rupture"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:479
+msgid "Responsive"
+msgstr "Responsive"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:435
+msgid "Arrows"
+msgstr "Flèches"
+
+#: inc/widgets-manager/widgets/class-page-title.php:218
+#: inc/widgets-manager/widgets/class-site-title.php:225
+msgid "H6"
+msgstr "H6"
+
+#: inc/widgets-manager/widgets/class-page-title.php:217
+#: inc/widgets-manager/widgets/class-site-title.php:224
+msgid "H5"
+msgstr "H5"
+
+#: inc/widgets-manager/widgets/class-page-title.php:216
+#: inc/widgets-manager/widgets/class-site-title.php:223
+msgid "H4"
+msgstr "H4"
+
+#: inc/widgets-manager/widgets/class-page-title.php:215
+#: inc/widgets-manager/widgets/class-site-title.php:222
+msgid "H3"
+msgstr "H3"
+
+#: inc/widgets-manager/widgets/class-page-title.php:214
+#: inc/widgets-manager/widgets/class-site-title.php:221
+msgid "H2"
+msgstr "H2"
+
+#: inc/widgets-manager/widgets/class-page-title.php:213
+#: inc/widgets-manager/widgets/class-site-title.php:220
+msgid "H1"
+msgstr "H1"
+
+#: inc/widgets-manager/widgets/class-cart.php:119
+#: inc/widgets-manager/widgets/class-navigation-menu.php:224
+#: inc/widgets-manager/widgets/class-navigation-menu.php:450
+#: inc/widgets-manager/widgets/class-page-title.php:182
+#: inc/widgets-manager/widgets/class-page-title.php:231
+#: inc/widgets-manager/widgets/class-site-logo.php:222
+#: inc/widgets-manager/widgets/class-site-logo.php:253
+#: inc/widgets-manager/widgets/class-site-title.php:173
+#: inc/widgets-manager/widgets/class-site-title.php:204
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/widgets-manager/widgets/class-page-title.php:139
+#: inc/widgets-manager/widgets/class-site-tagline.php:127
+#: inc/widgets-manager/widgets/class-site-title.php:130
+msgid "After Title Text"
+msgstr "Après le texte du titre"
+
+#: inc/widgets-manager/widgets/class-page-title.php:128
+#: inc/widgets-manager/widgets/class-site-tagline.php:115
+#: inc/widgets-manager/widgets/class-site-title.php:119
+msgid "Before Title Text"
+msgstr "Avant le texte du titre"
+
+#: inc/widgets-manager/widgets/class-page-title.php:111
+#: inc/widgets-manager/widgets/class-page-title.php:284
+#: inc/widgets-manager/widgets/class-site-title.php:275
+msgid "Title"
+msgstr "Titre"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:266
+msgid "View"
+msgstr "Voir"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:224
+msgid "Media File"
+msgstr "Fichier média"
+
+#: inc/widgets-manager/widgets/class-site-logo.php:204
+msgid "Enter caption"
+msgstr "Saisissez une légende"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:851
+#: inc/widgets-manager/widgets/class-navigation-menu.php:893
+msgid "Animation"
+msgstr "Animation"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:838
+msgid "Double Line"
+msgstr "Double ligne"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:495
+msgid "Tablet (1025px >)"
+msgstr "Tablette (1023px >)"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:545
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1428
+msgid "Divider"
+msgstr "Séparateur"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:837
+msgid "Overline"
+msgstr "Surligné"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:836
+msgid "Underline"
+msgstr "Souligné"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:831
+msgid "Link Hover Effect"
+msgstr "Effet au survol du lien"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:282
+msgid "Vertical"
+msgstr "Vertical"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:281
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:270
+#: inc/widgets-manager/widgets/class-navigation-menu.php:277
+#: inc/widgets-manager/widgets/class-search-button.php:129
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/widgets-manager/widgets/class-cart.php:347
+#: inc/widgets-manager/widgets/class-cart.php:403
+#: inc/widgets-manager/widgets/class-page-title.php:366
+#: inc/widgets-manager/widgets/class-search-button.php:649
+#: inc/widgets-manager/widgets/class-search-button.php:689
+#: inc/widgets-manager/widgets/class-site-tagline.php:223
+#: inc/widgets-manager/widgets/class-site-title.php:354
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: inc/widgets-manager/widgets/class-cart.php:128
+#: inc/widgets-manager/widgets/class-navigation-menu.php:580
+#: inc/widgets-manager/widgets/class-page-title.php:355
+#: inc/widgets-manager/widgets/class-search-button.php:134
+#: inc/widgets-manager/widgets/class-search-button.php:784
+#: inc/widgets-manager/widgets/class-site-tagline.php:139
+#: inc/widgets-manager/widgets/class-site-title.php:141
+#: inc/widgets-manager/widgets/class-site-title.php:344
+msgid "Icon"
+msgstr "Icône"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1519
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1551
+#: inc/widgets-manager/widgets/class-page-title.php:303
+#: inc/widgets-manager/widgets/class-search-button.php:804
+#: inc/widgets-manager/widgets/class-search-button.php:824
+#: inc/widgets-manager/widgets/class-search-button.php:908
+#: inc/widgets-manager/widgets/class-search-button.php:933
+#: inc/widgets-manager/widgets/class-site-tagline.php:207
+#: inc/widgets-manager/widgets/class-site-title.php:292
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/widgets-manager/widgets/class-page-title.php:234
+#: inc/widgets-manager/widgets/class-site-title.php:207
+msgid "Large"
+msgstr "Grand"
+
+#: inc/widgets-manager/widgets/class-page-title.php:233
+#: inc/widgets-manager/widgets/class-site-title.php:206
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/widgets-manager/widgets/class-page-title.php:232
+#: inc/widgets-manager/widgets/class-site-title.php:205
+msgid "Small"
+msgstr "Petit"
+
+#: inc/widgets-manager/widgets/class-cart.php:253
+#: inc/widgets-manager/widgets/class-page-title.php:227
+#: inc/widgets-manager/widgets/class-search-button.php:157
+#: inc/widgets-manager/widgets/class-search-button.php:875
+#: inc/widgets-manager/widgets/class-site-title.php:200
+msgid "Size"
+msgstr "Taille"
+
+#: inc/widgets-manager/widgets/class-page-title.php:210
+#: inc/widgets-manager/widgets/class-site-title.php:217
+msgid "HTML Tag"
+msgstr "Balise HTML"
+
+#: inc/widgets-manager/widgets/class-page-title.php:150
+msgid "Select Icon"
+msgstr "Sélectionner une icône"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:636
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:187
+#: inc/widgets-manager/widgets/class-navigation-menu.php:197
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:63
+msgid "Navigation Menu"
+msgstr "Menu de navigation"
+
+#. translators: %s Nav menu URL
+#: inc/widgets-manager/widgets/class-navigation-menu.php:203
+msgid "Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your menus."
+msgstr "Aller à <a href=\"%s\" target=\"_blank\">la page des menus</a> pour gérer vos menus."
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1332
+msgid "Dropdown Width (px)"
+msgstr "Largeur du menu déroulant (px)"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:564
+msgid "Menu Icon"
+msgstr "Icône de menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1646
+msgid "Close Icon Size"
+msgstr "Taille de l’icône de fermeture"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1628
+msgid "Close Icon Color"
+msgstr "Couleur de l’icône de fermeture"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:725
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1380
+msgid "Vertical Padding"
+msgstr "Marge interne verticale"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:699
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1357
+msgid "Horizontal Padding"
+msgstr "Marge interne horizontale"
+
+#: inc/widgets-manager/widgets/class-page-title.php:260
+msgid "Justified"
+msgstr "Justifié"
+
+#: inc/widgets-manager/widgets/class-page-title.php:236
+#: inc/widgets-manager/widgets/class-site-title.php:209
+msgid "XXL"
+msgstr "XXL"
+
+#: inc/widgets-manager/widgets/class-page-title.php:235
+#: inc/widgets-manager/widgets/class-site-title.php:208
+msgid "XL"
+msgstr "XL"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:436
+msgid "Plus Sign"
+msgstr "Signe « plus »"
+
+#: inc/widgets-manager/widgets/class-site-title.php:55
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:747
+msgid "Space Between"
+msgstr "Espace entre"
+
+#: inc/widgets-manager/widgets/class-page-title.php:56
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1502
+msgid "Menu Trigger & Close Icon"
+msgstr "Icône de déclenchement et de fermeture du menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1406
+msgid "Top Distance"
+msgstr "Distance supérieure"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1122
+msgid "<b>Note:</b> On desktop, below style options will apply to the submenu. On mobile, this will apply to the entire menu."
+msgstr "<b>Note :</b> sur ordinateur de bureau, les options de style ci-dessous s’appliqueront au sous-menu. Sur mobile, cela s’appliquera à l’ensemble du menu."
+
+#: inc/class-hfe-settings-page.php:63 inc/class-hfe-settings-page.php:658
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1043
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1225
+msgid "Active"
+msgstr "Actif"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1018
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1079
+msgid "Link Hover Effect Color"
+msgstr "Couleur d’effet de survol du lien"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:872
+msgid "Frame Animation"
+msgstr "Animation de cadre"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:795
+msgid "Menu Item Top Spacing"
+msgstr "Espacement supérieur des éléments du menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:774
+msgid "Row Spacing"
+msgstr "Espacement des rangées"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:675
+msgid "Flyout Box Padding"
+msgstr "Marge interne de la boîte volante"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:647
+msgid "Flyout Box Width"
+msgstr "Largeur de la boîte volante"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:595
+#: inc/widgets-manager/widgets/class-navigation-menu.php:611
+#: inc/widgets-manager/widgets/class-search-button.php:864
+msgid "Close Icon"
+msgstr "Icône de fermeture"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:546
+msgid "Enable this option to stretch the Sub Menu to Full Width."
+msgstr "Activez cette option pour étirer le sous-menu à sa pleine largeur."
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:526
+msgid "This is the alignement of menu icon on selected responsive breakpoints."
+msgstr "C’est l’alignement de l’icône du menu sur les points de rupture responsive sélectionnés."
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:451
+msgid "Slide Up"
+msgstr "Glissement vers le haut"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:446
+msgid "Submenu Animation"
+msgstr "Animation de sous-menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:437
+msgid "Classic"
+msgstr "Classique"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:431
+msgid "Submenu Icon"
+msgstr "Icône de sous-menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:394
+msgid "Menu Items Align"
+msgstr "Alignement des éléments de menu"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:357
+msgid "Hamburger Align"
+msgstr "Alignement du hamburger"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:345
+msgid "Push"
+msgstr "Pousser"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:344
+msgid "Slide"
+msgstr "Glissement"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:339
+msgid "Appear Effect"
+msgstr "Effet d’apparition"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:308
+#: inc/widgets-manager/widgets/class-navigation-menu.php:410
+#: inc/widgets-manager/widgets/class-site-tagline.php:183
+#: inc/widgets-manager/widgets/class-site-title.php:250
+msgid "Justify"
+msgstr "Justifier"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:284
+msgid "Flyout"
+msgstr "Volte-face"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:323
+msgid "Flyout Orientation"
+msgstr "Orientation du volte-face"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:283
+msgid "Expanded"
+msgstr "Étendu"
+
+#. translators: %s Nav menu URL
+#: inc/widgets-manager/widgets/class-navigation-menu.php:212
+msgid "<strong>There are no menus in your site.</strong><br>Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr "<strong>Il n’y a aucun menu dans votre site.</strong><br>Allez à <a href=\"%s\" target=\"_blank\">l’écran des menus</a> pour en créer un."
+
+#: inc/widgets-manager/widgets/class-page-title.php:384
+#: inc/widgets-manager/widgets/class-site-tagline.php:241
+#: inc/widgets-manager/widgets/class-site-title.php:372
+msgid "Icon Hover Color"
+msgstr "Couleur de l’icône au survol"
+
+#: inc/widgets-manager/widgets/class-page-title.php:327
+#: inc/widgets-manager/widgets/class-site-title.php:316
+msgid "Blend Mode"
+msgstr "Mode mixte"
+
+#: inc/widgets-manager/widgets/class-cart.php:464
+#: inc/widgets-manager/widgets/class-page-title.php:159
+#: inc/widgets-manager/widgets/class-site-tagline.php:148
+#: inc/widgets-manager/widgets/class-site-title.php:150
+msgid "Icon Spacing"
+msgstr "Espacement des icônes"
+
+#: admin/class-hfe-admin.php:412
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: admin/class-hfe-admin.php:404
+msgid "User Roles"
+msgstr "Rôles utilisateurs"
+
+#: admin/class-hfe-admin.php:373
+msgid "Add Display Rule"
+msgstr "Ajouter une règle d’affichage"
+
+#: admin/class-hfe-admin.php:137
+msgid "Date"
+msgstr "Date"
+
+#: admin/class-hfe-admin.php:136 admin/class-hfe-admin.php:369
+msgid "Display Rules"
+msgstr "Afficher les règles"
+
+#: inc/class-hfe-settings-page.php:185 inc/class-hfe-settings-page.php:186
+#: inc/class-hfe-settings-page.php:805
+msgid "Settings"
+msgstr "Réglages"
+
+#: inc/class-hfe-settings-page.php:153
+msgid "Method 2"
+msgstr "Méthode 2"
+
+#: inc/class-hfe-settings-page.php:149
+msgid " Method 1 (Recommended)"
+msgstr " Méthode 1 (recommandée)"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:631
+msgid "s"
+msgstr "s"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:630
+msgid "item"
+msgstr "élément"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:629
+msgid "You can only select"
+msgstr "Vous pouvez uniquement sélectionner"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:628
+msgid "Loading more results…"
+msgstr "Charger plus de résultats&hellip;"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:627
+msgid "character"
+msgstr "caractère"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:626
+msgid "or more characters"
+msgstr "ou plus de caractères"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:625
+msgid "Please delete"
+msgstr "Veuillez supprimer"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:624
+msgid "Please enter"
+msgstr "Veuillez saisir"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:222
+msgid "Advanced"
+msgstr "Avancé"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:217
+msgid "Logged Out"
+msgstr "Déconnecté·e"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:216
+msgid "Logged In"
+msgstr "Connecté·e"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:215
+msgid "All"
+msgstr "Toutes"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:191
+msgid "Specific Target"
+msgstr "Cible spécifique"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:150
+msgid "Special Pages"
+msgstr "Pages spéciales"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:145
+msgid "All Archives"
+msgstr "Toutes les archives"
+
+#: inc/widgets-manager/widgets/class-retina.php:258
+#: inc/widgets-manager/widgets/class-search-button.php:206
+#: inc/widgets-manager/widgets/class-search-button.php:759
+#: inc/widgets-manager/widgets/class-site-logo.php:291
+msgid "Width"
+msgstr "Largeur"
+
+#: inc/widgets-manager/widgets/class-page-title.php:181
+#: inc/widgets-manager/widgets/class-retina.php:218
+#: inc/widgets-manager/widgets/class-site-logo.php:225
+#: inc/widgets-manager/widgets/class-site-title.php:172
+msgid "Custom URL"
+msgstr "URL personnalisée"
+
+#: inc/widgets-manager/widgets/class-cart.php:149
+#: inc/widgets-manager/widgets/class-navigation-menu.php:496
+#: inc/widgets-manager/widgets/class-navigation-menu.php:835
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1442
+#: inc/widgets-manager/widgets/class-page-title.php:183
+#: inc/widgets-manager/widgets/class-retina.php:186
+#: inc/widgets-manager/widgets/class-retina.php:217
+#: inc/widgets-manager/widgets/class-retina.php:337
+#: inc/widgets-manager/widgets/class-search-button.php:308
+#: inc/widgets-manager/widgets/class-search-button.php:546
+#: inc/widgets-manager/widgets/class-site-logo.php:223
+#: inc/widgets-manager/widgets/class-site-logo.php:379
+msgid "None"
+msgstr "Aucun"
+
+#: inc/widgets-manager/widgets/class-retina.php:183
+#: inc/widgets-manager/widgets/class-retina.php:521
+#: inc/widgets-manager/widgets/class-site-logo.php:188
+#: inc/widgets-manager/widgets/class-site-logo.php:563
+msgid "Caption"
+msgstr "Légende"
+
+#: inc/widgets-manager/widgets/class-retina.php:149
+#: inc/widgets-manager/widgets/class-site-logo.php:154
+msgid "Image Size"
+msgstr "Taille de l’image"
+
+#: inc/widgets-manager/widgets/class-cart.php:204
+#: inc/widgets-manager/widgets/class-copyright.php:139
+#: inc/widgets-manager/widgets/class-navigation-menu.php:300
+#: inc/widgets-manager/widgets/class-navigation-menu.php:366
+#: inc/widgets-manager/widgets/class-navigation-menu.php:402
+#: inc/widgets-manager/widgets/class-navigation-menu.php:517
+#: inc/widgets-manager/widgets/class-page-title.php:252
+#: inc/widgets-manager/widgets/class-retina.php:164
+#: inc/widgets-manager/widgets/class-site-logo.php:169
+#: inc/widgets-manager/widgets/class-site-tagline.php:175
+#: inc/widgets-manager/widgets/class-site-title.php:242
+msgid "Center"
+msgstr "Centre"
+
+#: inc/widgets-manager/widgets/class-cart.php:200
+#: inc/widgets-manager/widgets/class-copyright.php:135
+#: inc/widgets-manager/widgets/class-navigation-menu.php:296
+#: inc/widgets-manager/widgets/class-navigation-menu.php:327
+#: inc/widgets-manager/widgets/class-navigation-menu.php:362
+#: inc/widgets-manager/widgets/class-navigation-menu.php:398
+#: inc/widgets-manager/widgets/class-navigation-menu.php:513
+#: inc/widgets-manager/widgets/class-page-title.php:248
+#: inc/widgets-manager/widgets/class-retina.php:160
+#: inc/widgets-manager/widgets/class-site-logo.php:165
+#: inc/widgets-manager/widgets/class-site-tagline.php:171
+#: inc/widgets-manager/widgets/class-site-title.php:238
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/widgets-manager/widgets/class-cart.php:196
+#: inc/widgets-manager/widgets/class-copyright.php:131
+#: inc/widgets-manager/widgets/class-navigation-menu.php:292
+#: inc/widgets-manager/widgets/class-navigation-menu.php:509
+#: inc/widgets-manager/widgets/class-page-title.php:244
+#: inc/widgets-manager/widgets/class-retina.php:156
+#: inc/widgets-manager/widgets/class-site-logo.php:161
+#: inc/widgets-manager/widgets/class-site-tagline.php:167
+#: inc/widgets-manager/widgets/class-site-title.php:234
+msgid "Alignment"
+msgstr "Alignement"
+
+#: inc/widgets-manager/widgets/class-copyright.php:124
+#: inc/widgets-manager/widgets/class-page-title.php:194
+#: inc/widgets-manager/widgets/class-retina.php:231
+#: inc/widgets-manager/widgets/class-site-logo.php:238
+#: inc/widgets-manager/widgets/class-site-title.php:184
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: inc/widgets-manager/widgets/class-copyright.php:122
+#: inc/widgets-manager/widgets/class-page-title.php:178
+#: inc/widgets-manager/widgets/class-page-title.php:192
+#: inc/widgets-manager/widgets/class-retina.php:213
+#: inc/widgets-manager/widgets/class-retina.php:226
+#: inc/widgets-manager/widgets/class-site-logo.php:218
+#: inc/widgets-manager/widgets/class-site-logo.php:233
+#: inc/widgets-manager/widgets/class-site-title.php:169
+#: inc/widgets-manager/widgets/class-site-title.php:182
+msgid "Link"
+msgstr "Lien"
+
+#: inc/widgets-manager/widgets/class-copyright.php:110
+msgid "Copyright Text"
+msgstr "Texte du copyright"
+
+#: inc/widgets-manager/widgets/class-copyright.php:52
+#: inc/widgets-manager/widgets/class-copyright.php:103
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:670
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:775
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1079
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1109
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1559
+msgid "Select"
+msgstr "Sélectionner"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:654
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1063
+msgid "Add Rule"
+msgstr "Ajouter une règle"
+
+#: admin/class-hfe-admin.php:415
+msgid "Add User Rule"
+msgstr "Ajouter une règle utilisateur"
+
+#: inc/widgets-manager/widgets/class-retina.php:424
+#: inc/widgets-manager/widgets/class-retina.php:458
+#: inc/widgets-manager/widgets/class-site-logo.php:466
+#: inc/widgets-manager/widgets/class-site-logo.php:500
+msgid "Opacity"
+msgstr "Opacité"
+
+#: inc/widgets-manager/widgets/class-cart.php:329
+#: inc/widgets-manager/widgets/class-cart.php:527
+#: inc/widgets-manager/widgets/class-navigation-menu.php:936
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1139
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1512
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1705
+#: inc/widgets-manager/widgets/class-page-title.php:330
+#: inc/widgets-manager/widgets/class-retina.php:417
+#: inc/widgets-manager/widgets/class-search-button.php:232
+#: inc/widgets-manager/widgets/class-search-button.php:642
+#: inc/widgets-manager/widgets/class-search-button.php:797
+#: inc/widgets-manager/widgets/class-search-button.php:902
+#: inc/widgets-manager/widgets/class-site-logo.php:459
+#: inc/widgets-manager/widgets/class-site-title.php:319
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/widgets-manager/widgets/class-cart.php:291
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1297
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1615
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1750
+#: inc/widgets-manager/widgets/class-retina.php:391
+#: inc/widgets-manager/widgets/class-search-button.php:372
+#: inc/widgets-manager/widgets/class-search-button.php:603
+#: inc/widgets-manager/widgets/class-site-logo.php:433
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: inc/widgets-manager/widgets/class-cart.php:372
+#: inc/widgets-manager/widgets/class-cart.php:428
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1458
+#: inc/widgets-manager/widgets/class-retina.php:373
+#: inc/widgets-manager/widgets/class-search-button.php:326
+#: inc/widgets-manager/widgets/class-search-button.php:474
+#: inc/widgets-manager/widgets/class-search-button.php:564
+#: inc/widgets-manager/widgets/class-site-logo.php:415
+msgid "Border Color"
+msgstr "Couleur de bordure"
+
+#: inc/widgets-manager/widgets/class-cart.php:272
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1475
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1598
+#: inc/widgets-manager/widgets/class-retina.php:351
+#: inc/widgets-manager/widgets/class-search-button.php:347
+#: inc/widgets-manager/widgets/class-search-button.php:580
+#: inc/widgets-manager/widgets/class-site-logo.php:393
+msgid "Border Width"
+msgstr "Largeur de bordure"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1445
+#: inc/widgets-manager/widgets/class-retina.php:340
+#: inc/widgets-manager/widgets/class-search-button.php:311
+#: inc/widgets-manager/widgets/class-search-button.php:549
+#: inc/widgets-manager/widgets/class-site-logo.php:382
+msgid "Dotted"
+msgstr "Pointillé"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1446
+#: inc/widgets-manager/widgets/class-retina.php:341
+#: inc/widgets-manager/widgets/class-search-button.php:312
+#: inc/widgets-manager/widgets/class-search-button.php:550
+#: inc/widgets-manager/widgets/class-site-logo.php:383
+msgid "Dashed"
+msgstr "Tirets"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1444
+#: inc/widgets-manager/widgets/class-retina.php:339
+#: inc/widgets-manager/widgets/class-search-button.php:310
+#: inc/widgets-manager/widgets/class-search-button.php:548
+#: inc/widgets-manager/widgets/class-site-logo.php:381
+msgid "Double"
+msgstr "Double"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1443
+#: inc/widgets-manager/widgets/class-retina.php:338
+#: inc/widgets-manager/widgets/class-search-button.php:309
+#: inc/widgets-manager/widgets/class-search-button.php:547
+#: inc/widgets-manager/widgets/class-site-logo.php:380
+msgid "Solid"
+msgstr "Pleine"
+
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1437
+#: inc/widgets-manager/widgets/class-retina.php:332
+#: inc/widgets-manager/widgets/class-search-button.php:303
+#: inc/widgets-manager/widgets/class-search-button.php:541
+#: inc/widgets-manager/widgets/class-site-logo.php:374
+msgid "Border Style"
+msgstr "Style de bordure"
+
+#: inc/widgets-manager/widgets/class-retina.php:295
+#: inc/widgets-manager/widgets/class-site-logo.php:327
+msgid "Max Width"
+msgstr "Largeur maximale"
+
+#: inc/widgets-manager/widgets/class-retina.php:199
+msgid "Enter your image caption"
+msgstr "Saisissez la légende de votre image"
+
+#: inc/widgets-manager/widgets/class-retina.php:187
+#: inc/widgets-manager/widgets/class-retina.php:196
+#: inc/widgets-manager/widgets/class-site-logo.php:201
+msgid "Custom Caption"
+msgstr "Légende personnalisée"
+
+#: inc/widgets-manager/widgets/class-cart.php:336
+#: inc/widgets-manager/widgets/class-cart.php:392
+#: inc/widgets-manager/widgets/class-cart.php:534
+#: inc/widgets-manager/widgets/class-cart.php:571
+#: inc/widgets-manager/widgets/class-copyright.php:157
+#: inc/widgets-manager/widgets/class-navigation-menu.php:943
+#: inc/widgets-manager/widgets/class-navigation-menu.php:982
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1050
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1146
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1189
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1232
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1712
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1779
+#: inc/widgets-manager/widgets/class-retina.php:532
+#: inc/widgets-manager/widgets/class-search-button.php:242
+#: inc/widgets-manager/widgets/class-search-button.php:409
+#: inc/widgets-manager/widgets/class-search-button.php:493
+#: inc/widgets-manager/widgets/class-site-logo.php:574
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: inc/widgets-manager/widgets/class-cart.php:208
+#: inc/widgets-manager/widgets/class-copyright.php:143
+#: inc/widgets-manager/widgets/class-navigation-menu.php:304
+#: inc/widgets-manager/widgets/class-navigation-menu.php:328
+#: inc/widgets-manager/widgets/class-navigation-menu.php:370
+#: inc/widgets-manager/widgets/class-navigation-menu.php:406
+#: inc/widgets-manager/widgets/class-navigation-menu.php:521
+#: inc/widgets-manager/widgets/class-page-title.php:256
+#: inc/widgets-manager/widgets/class-retina.php:168
+#: inc/widgets-manager/widgets/class-site-logo.php:173
+#: inc/widgets-manager/widgets/class-site-tagline.php:179
+#: inc/widgets-manager/widgets/class-site-title.php:246
+msgid "Right"
+msgstr "Droite"
+
+#: inc/widgets-manager/widgets/class-copyright.php:115
+msgid "Copyright © [hfe_current_year] [hfe_site_title] | Powered by [hfe_site_title]"
+msgstr "Copyright © [hfe_current_year] [hfe_site_title] | Propulsé par [hfe_site_title]"
+
+#: inc/class-header-footer-elementor.php:185
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: inc/class-header-footer-elementor.php:184
+msgid "Nope, maybe later"
+msgstr "Non, peut-être ultérieurement"
+
+#: inc/class-header-footer-elementor.php:182
+msgid "Ok, you deserve it"
+msgstr "Ok, vous le méritez"
+
+#: inc/widgets-manager/widgets/class-cart.php:311
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1690
+#: inc/widgets-manager/widgets/class-retina.php:577
+#: inc/widgets-manager/widgets/class-site-logo.php:619
+msgid "Padding"
+msgstr "Marge interne"
+
+#: inc/widgets-manager/widgets/class-retina.php:491
+#: inc/widgets-manager/widgets/class-site-logo.php:517
+msgid "Transition Duration"
+msgstr "Durée de transition"
+
+#: inc/widgets-manager/widgets/class-retina.php:484
+#: inc/widgets-manager/widgets/class-site-logo.php:542
+msgid "Hover Animation"
+msgstr "Animation au survol"
+
+#: inc/widgets-manager/widgets/class-cart.php:361
+#: inc/widgets-manager/widgets/class-cart.php:417
+#: inc/widgets-manager/widgets/class-cart.php:548
+#: inc/widgets-manager/widgets/class-cart.php:585
+#: inc/widgets-manager/widgets/class-navigation-menu.php:816
+#: inc/widgets-manager/widgets/class-navigation-menu.php:958
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1000
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1063
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1163
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1206
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1249
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1531
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1564
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1725
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1791
+#: inc/widgets-manager/widgets/class-retina.php:547
+#: inc/widgets-manager/widgets/class-search-button.php:277
+#: inc/widgets-manager/widgets/class-search-button.php:441
+#: inc/widgets-manager/widgets/class-search-button.php:508
+#: inc/widgets-manager/widgets/class-search-button.php:700
+#: inc/widgets-manager/widgets/class-site-logo.php:363
+#: inc/widgets-manager/widgets/class-site-logo.php:589
+msgid "Background Color"
+msgstr "Couleur de l’arrière-plan"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:634
+msgid "The results could not be loaded."
+msgstr "Les résultats n’ont pas pu être chargés."
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:633
+msgid "Searching…"
+msgstr "Recherche…"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:632
+msgid "No results found"
+msgstr "Aucun résultat trouvé"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:127
+msgid "404 Page"
+msgstr "Page 404"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:130
+msgid "Front Page"
+msgstr "Page d’accueil"
+
+#: inc/widgets-manager/widgets/class-retina.php:624
+msgid "Helpful Information"
+msgstr "Information utile"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:132
+msgid "Author Archive"
+msgstr "Archives d’auteur"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:131
+msgid "Date Archive"
+msgstr "Archives de date"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:128
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#: inc/lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "Nonce WordPress non validé."
+
+#: inc/widgets-manager/widgets/class-retina.php:59
+#: inc/widgets-manager/widgets/class-retina.php:116
+#: inc/widgets-manager/widgets/class-retina.php:250
+msgid "Retina Image"
+msgstr "Image retina"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:193
+msgid "Specific Pages / Posts / Taxonomies, etc."
+msgstr "Pages/publications/taxonomies, etc. spécifiques"
+
+#: inc/widgets-manager/widgets/class-cart.php:385
+#: inc/widgets-manager/widgets/class-cart.php:564
+#: inc/widgets-manager/widgets/class-navigation-menu.php:975
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1182
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1544
+#: inc/widgets-manager/widgets/class-navigation-menu.php:1772
+#: inc/widgets-manager/widgets/class-retina.php:452
+#: inc/widgets-manager/widgets/class-search-button.php:682
+#: inc/widgets-manager/widgets/class-search-button.php:817
+#: inc/widgets-manager/widgets/class-search-button.php:926
+#: inc/widgets-manager/widgets/class-site-logo.php:494
+msgid "Hover"
+msgstr "Au survol"
+
+#: admin/class-hfe-admin.php:405
+msgid "Display custom template based on user role."
+msgstr "Afficher le modèle personnalisé en fonction du rôle utilisateur."
+
+#: admin/class-hfe-admin.php:391
+msgid "Exclude On"
+msgstr "Exclure sur"
+
+#: admin/class-hfe-admin.php:382
+msgid "Do Not Display On"
+msgstr "Ne pas afficher sur"
+
+#: admin/class-hfe-admin.php:362
+msgid "Add locations for where this template should appear."
+msgstr "Ajoutez des emplacements pour lesquels ce modèle doit apparaître."
+
+#: admin/class-hfe-admin.php:360
+msgid "Display On"
+msgstr "Afficher sur"
+
+#: inc/class-header-footer-elementor.php:479
+msgid "Theme Support"
+msgstr "Prise en charge de thème"
+
+#: inc/class-hfe-settings-page.php:166
+msgid "Sometimes above methods might not work well with your theme, in this case, contact your theme author and request them to add support for the <a href=\"https://github.com/Nikschavan/header-footer-elementor/wiki/Adding-Header-Footer-Elementor-support-for-your-theme\">plugin.</>"
+msgstr "Parfois, les méthodes ci-dessus peuvent ne pas fonctionner correctement avec votre thème. Dans ce cas, contactez l’auteur de votre thème et demandez-lui d’ajouter la prise en charge de <a href=\"https://github.com/Nikschavan/header-footer-elementor/wiki/Adding-Header-Footer-Elementor-support-for-your-theme\">l’extension.</>"
+
+#: inc/class-hfe-settings-page.php:150
+msgid "This method replaces your theme's header (header.php) & footer (footer.php) template with plugin's custom templates."
+msgstr "Cette méthode remplace le modèle d’en-tête (header.php) et de pied de page (footer.php) de votre thème par les modèles personnalisés de l’extension."
+
+#: inc/class-hfe-settings-page.php:115
+msgid "Add Theme Support"
+msgstr "Ajouter la prise en charge du thème"
+
+#. translators: %s post title.
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:1500
+msgid "The same display setting is already exist in %s post/s."
+msgstr "Le même réglage d’affichage existe déjà dans les publications %s."
+
+#: admin/class-hfe-admin.php:394
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:846
+msgid "Add Exclusion Rule"
+msgstr "Ajouter une règle d’exclusion"
+
+#. translators: %s post label
+#. translators: %s taxonomy label
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:725
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:734
+msgid "All %s Archive"
+msgstr "Toutes les archives de %s"
+
+#. translators: %s post label
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:720
+msgid "All %s"
+msgstr "Tout %s"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:635
+msgid "Search pages / post / categories"
+msgstr "Pages de recherche/article/catégories"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:144
+msgid "All Singulars"
+msgstr "Tous les uniques"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:141
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:213
+msgid "Basic"
+msgstr "Basique"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:136
+msgid "WooCommerce Shop Page"
+msgstr "Page boutique WooCommerce"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:129
+msgid "Blog / Posts Page"
+msgstr "Pages de blog/articles"
+
+#. translators: %1$s doc link
+#: inc/widgets-manager/widgets/class-retina.php:633
+msgid "%1$s Getting started article » %2$s"
+msgstr "%1$s Article de démarrage » %2$s"
+
+#: inc/widgets-manager/widgets/class-retina.php:589
+msgid "Caption Top Spacing"
+msgstr "Espacement supérieur de la légende"
+
+#: inc/widgets-manager/widgets/class-retina.php:135
+msgid "Choose Retina Image"
+msgstr "Choisir l’image Retina"
+
+#: inc/widgets-manager/widgets/class-retina.php:122
+msgid "Choose Default Image"
+msgstr "Choisir l’image par défaut"
+
+#: inc/lib/target-rule/class-astra-target-rules-fields.php:143
+msgid "Entire Website"
+msgstr "Tout le site"
+
+#: inc/class-header-footer-elementor.php:180
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the Elementor Header & Footer Builder."
+msgstr "Pourriez-vous nous faire une grande faveur et lui donner une note de 5 étoiles sur WordPress ? Cela renforcerait notre motivation et aiderait les autres utilisateurs et utilisatrices à prendre une décision confortable en choisissant Elementor - Header & Footer Builder."
+
+#: inc/class-header-footer-elementor.php:179
+msgid "Hello! Seems like you have used Elementor Header & Footer Builder to build this website — Thanks a ton!"
+msgstr "Bonjour ! Il semble que vous ayez utilisé Elementor - Header & Footer Builder pour construire ce site - Merci bien !"
+
+#: admin/class-hfe-admin.php:320
+msgid "Copy this shortcode and paste it into your post, page, or text widget content."
+msgstr "Copiez ce code court et collez-le dans votre le contenu de votre article, page ou widget texte."
+
+#: admin/class-hfe-admin.php:319 admin/class-hfe-admin.php:564
+msgid "Shortcode"
+msgstr "Code court"
+
+#: admin/class-hfe-admin.php:311
+msgid "Custom Block"
+msgstr "Bloc personnalisé"
+
+#: admin/class-hfe-admin.php:309
+msgid "Before Footer"
+msgstr "Avant le pied de page"
+
+#: admin/class-hfe-admin.php:303
+msgid "Type of Template"
+msgstr "Type de modèle"
+
+#: admin/class-hfe-admin.php:310
+msgid "Footer"
+msgstr "Pied de page"
+
+#: admin/class-hfe-admin.php:308
+msgid "Header"
+msgstr "En-tête"
+
+#: admin/class-hfe-admin.php:307
+msgid "Select Option"
+msgstr "Sélectionnez une option"
+
+#: admin/class-hfe-admin.php:332
+msgid "Enable Layout for Elementor Canvas Template?"
+msgstr "Activer la mise en page pour le modèle Elementor canevas ?"
+
+#: admin/class-hfe-admin.php:334
+msgid "Enabling this option will display this layout on pages using Elementor Canvas Template."
+msgstr "Activer cette option affichera cette mise en page sur les pages utilisant le modèle Elementor canevas."
+
+#. Translators: Post title, Template Location
+#: admin/class-hfe-admin.php:495
+msgid "Template %1$s is already assigned to the location %2$s"
+msgstr "Le modèle %1$s est déjà affecté à l’emplacement %2$s"
+
+#. Author URI of the plugin
+msgid "https://www.brainstormforce.com/"
+msgstr "https://www.brainstormforce.com/"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/Nikschavan/header-footer-elementor"
+msgstr "https://github.com/Nikschavan/header-footer-elementor"
+
+#: admin/class-hfe-admin.php:224
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#. Author of the plugin
+msgid "Brainstorm Force, Nikhil Chavan"
+msgstr "Brainstorm Force, Nikhil Chavan"
+
+#: admin/class-hfe-admin.php:225
+msgid "Add New Header or Footer"
+msgstr "Ajouter un nouveau pied de page ou en-tête"

@@ -1,0 +1,28 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_bosa">
+            <key name="contact_phone" />
+            <key name="contact_email" />
+            <key name="contact_address" />
+            <key name="header_button_repeater" />
+            <key name="transparent_header_button_repeater" />
+            <key name="top_bar_name" />
+            <key name="responsive_header_menu_text" />
+            <key name="main_slider_button_repeater" />
+            <key name="banner_title" />
+            <key name="banner_subtitle" />
+            <key name="main_banner_buttons_repeater" />
+            <key name="highlight_posts_section_title" />
+            <key name="highlight_posts_section_description" />
+            <key name="latest_posts_section_title" />
+            <key name="latest_posts_section_description" />
+            <key name="feature_posts_section_title" />
+            <key name="feature_posts_section_description" />
+            <key name="blog_page_button_repeater" />
+            <key name="single_post_author_title" />
+            <key name="related_posts_title" />
+            <key name="woocommerce_sale_badge_text" />
+            <key name="woocommerce_sale_badge_percent" />
+        </key>
+    </admin-texts>
+</wpml-config>

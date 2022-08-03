@@ -1,0 +1,257 @@
+/* Checkbox */
+input, textarea {
+    font-size: 13px;
+}
+.customize-control.customize-control-checkbox .customize-inside-control-row {
+    padding-left: 0;
+}
+.customize-control .customize-inside-control-row {
+    margin-left: 0;
+}
+.customize-inside-control-row input[type="checkbox"] + label,
+.customize-inside-control-row input[type="radio"] + label {
+    position: relative;
+}
+.customize-inside-control-row input[type="checkbox"] + label {
+    padding-left: 45px;
+    display: block;
+}
+.customize-inside-control-row input[type="radio"] + label {
+    padding-left: 28px;
+}
+.customize-inside-control-row input[type="checkbox"],
+.customize-inside-control-row input[type="radio"] {
+    display:none;
+}
+.customize-inside-control-row input[type="checkbox"] + label:before,
+.customize-inside-control-row input[type="checkbox"] + label:after,
+.customize-inside-control-row input[type="radio"] + label:before,
+.customize-inside-control-row input[type="radio"] + label:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    box-sizing: border-box;
+    -webkit-transform: translate(0, -50%) !important;
+    -moz-transform: translate(0, -50%) !important;
+    -ms-transform: translate(0, -50%) !important;
+    -o-transform: translate(0, -50%) !important;
+    transform: translate(0, -50%) !important;
+}
+.customize-inside-control-row input[type="checkbox"] + label:before {
+    width: 35px;
+    height: 20px;
+    left: 0px;
+    background: #CCCCCC;
+    border: 1px solid #e4e3e1;
+    border-radius: 15px;
+}
+.customize-inside-control-row input[type="checkbox"] + label:after {
+    content: "\f335";
+    font-family: dashicons;
+    width: 15px;
+    height: 15px;
+    left: 3px;
+    background: #fff;
+    border-radius: 50%;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    -ms-align-items: center;
+    -o-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    -ms-justify-content: center;
+    -o-justify-content: center;
+    justify-content: center;
+    -webkit-transition: all 200ms ease-out;
+    -moz-transition: all 200ms ease-out;
+    -ms-transition: all 200ms ease-out;
+    transition: all 200ms ease-out;
+}
+.customize-inside-control-row input[type="checkbox"]:checked + label:before {
+    background: #66BB6A;
+
+}
+.customize-inside-control-row input[type="checkbox"]:checked + label:after {
+    content: "\f15e";
+    font-family: dashicons;
+    left: 17px;
+    background: #fff;
+}
+
+.customize-inside-control-row input[type="radio"] + label:before {
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    background: transparent;
+    border: 1px solid #9B9B9B;
+    border-radius: 100%;
+}
+.customize-inside-control-row input[type="radio"]:checked + label:after {
+    background: #0085BA;
+    border-radius: 100%;
+    width: 12px;
+    height: 12px;
+    left: 4px;
+}
+
+/*repeater*/
+.repeater-fields {
+    padding: 0;
+    border: none;
+    box-shadow: none;
+}
+
+/*style for custom customize control*/
+
+[id*="customize-control-separator"] {
+    display: list-item !important;
+    margin-bottom: 0;
+}
+
+.customize-control-kirki-radio-image label {
+    margin-right: 10px;
+    margin-bottom: 5px;
+    line-height: 1;
+    font-size: 0;
+    position: relative;
+}
+
+.customize-control-kirki-radio-image input:checked + label:before {
+    content: "";
+    display: block;
+    border: 2px solid #2271B1;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.customize-control-kirki-radio-image input:checked + label img {
+    box-shadow: none;
+    border: none;
+}
+
+#accordion-section-theme_upsell,
+#accordion-section-theme_getting_started {
+    display: block !important;
+    min-height: auto;
+}
+
+#customize-theme-controls #accordion-section-theme_getting_started .accordion-section-title {
+    border-left: none;
+}
+
+#accordion-section-theme_getting_started a {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 6px 20px;
+    margin-top: 8px;
+}
+
+#accordion-section-theme_upsell h3 {
+    line-height: 2;
+}
+
+#accordion-section-theme_upsell h3 a.button {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+#accordion-section-theme_upsell h3 a.button:hover,
+#accordion-section-theme_upsell h3 a.button:focus,
+#accordion-section-theme_upsell h3 a.button:active {
+    background-color: #0071a1;
+    border-color: #0071a1;
+}
+.iris-picker .iris-strip {
+    width: 18px !important;
+}
+#customize-control-main_slider_layout,
+#customize-control-feature_posts_section_layouts,
+#customize-control-highlight_posts_section_layouts {
+    display: none !important;
+}
+
+#customize-control-header_button_separator label,
+#customize-control-fixed_header_separator label,
+#customize-control-header_two_home_separator label,
+#customize-control-header_two_general_separator label,
+#customize-control-contact_details_separator label,
+#customize-control-product_card_separator label,
+#customize-control-product_card_style_separator label,
+#customize-control-sale_tag_separator label,
+#customize-control-sale_tag_style_separator label,
+#customize-control-add_to_cart_separator label,
+#customize-control-add_to_cart_style_separator label,
+#customize-control-icon_group_separator label,
+#customize-control-icon_group_style_separator label
+{
+    font-weight: 600;
+    display: block;
+}
+
+#customize-control-header_button_separator label,
+#customize-control-fixed_header_separator label,
+#customize-control-header_two_home_separator label,
+#customize-control-header_two_general_separator label,
+#customize-control-contact_details_separator label,
+#customize-control-product_card_separator label,
+#customize-control-product_card_style_separator label,
+#customize-control-sale_tag_separator label,
+#customize-control-sale_tag_style_separator label,
+#customize-control-add_to_cart_separator label,
+#customize-control-add_to_cart_style_separator label,
+#customize-control-icon_group_separator label,
+#customize-control-icon_group_style_separator label
+{
+    background-color: #2271B1;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.customize-control-kirki-custom label {
+    font-size: 14px;
+}
+
+.customize-control:not(.customize-control-kirki-react-colorful) .customize-control-title {
+    color: #000000;
+    font-size: 13px;
+}
+.customize-control-kirki-slider .kirki-control-form {
+    margin-bottom: 0;
+}
+.customize-control-kirki-checkbox label, 
+.customize-control-kirki-radio label {
+    vertical-align: top;
+}
+
+.customize-control-kirki-react-colorful .kirki-control-label .customize-control-title {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.customize-control-kirki-react-colorful .kirki-trigger-circle-wrapper {
+    height: 27px;
+    padding: 0;
+    width: 27px;
+}
+
+.customize-control-kirki-react-colorful .kirki-trigger-circle {
+    height: 20px;
+    width: 20px;
+}
+
+#customize-control-general_title_font_control .kirki-variant-wrapper {
+    display: none !important;
+}

@@ -1,0 +1,49 @@
+#accordion-section-theme_upsell .customizer-featured-list {
+    border: none;
+    margin: 15px;
+    padding: 16px 15px 18px;
+}
+#accordion-section-theme_upsell .customizer-featured-list h3 {
+    margin-bottom: 15px;
+    margin-top: 0;
+    line-height: 1;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#accordion-section-theme_upsell .customizer-featured-list li {
+    position: relative;
+}
+
+#accordion-section-theme_upsell .customizer-featured-list li:before {
+    background-color: #2271b1;
+    color: #FFFFFF;
+    border-radius: 100%;
+    content: "\f15e";
+    font-family: dashicons;
+    font-weight: 400;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+    font-size: 10px;
+    line-height: 12px;
+    width: 12px;
+    height: 12px;
+    text-align: center;
+}
+
+#accordion-section-theme_upsell .customizer-featured-list a.button {
+    background-color: #28a745;
+    border-color: #28a745;
+    display: block;
+    margin-top: 17px;
+    text-align: center;
+    line-height: 24px;
+}
+
+#accordion-section-theme_upsell .customizer-featured-list a.button:hover,
+#accordion-section-theme_upsell .customizer-featured-list a.button:focus,
+#accordion-section-theme_upsell .customizer-featured-list a.button:active {
+    background-color: #0071a1;
+    border-color: #0071a1;
+}
